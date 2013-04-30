@@ -3,3 +3,4 @@
 :find
 :sfind
 :tabfind
+gf

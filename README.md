@@ -10,7 +10,7 @@ This is a talk given by Kris Jenkins at Vim London, 30/4/2013, for the
 `:find` is your friend, especially if you:
 
 ```vim
-set path=**;.git
+set path=**
 set suffixesadd=.java,.py
 set nocompatible
 set wildmode=full

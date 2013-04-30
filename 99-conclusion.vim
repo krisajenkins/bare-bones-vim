@@ -1,5 +1,5 @@
 " :find
-set path=**;.git
+set path=**
 set suffixesadd=.java,.py
 
 " :find gets better more

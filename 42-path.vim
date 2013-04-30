@@ -1,6 +1,8 @@
 " Path examples
 
-set path=** 
+set path=**
 set path=app/**
 set path=src/**
-set path=**,/Users/kris/Library/**/doc/**
+
+" Anything under current dir, plus any libraries' doc files.
+set path=**,/Users/kris/Library/**/doc/*
