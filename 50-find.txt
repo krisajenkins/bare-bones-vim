@@ -1,3 +1,5 @@
-1. 'set path=**' - :find will start work.
-2. 'set suffixesadd=.java,.py,.rb' - :find will work harder.
-3. gf will start to jump.
+:find types
+
+:find
+:sfind
+:tabfind
