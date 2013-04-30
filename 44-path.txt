@@ -1,5 +1,0 @@
-Path examples
-----
-
-set path=app/**
-set path=src/**

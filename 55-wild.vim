@@ -1,5 +1,4 @@
-Enabling wildmode
-----
+" Enabling wildmode
 
 set nocompatible
 set wildmode=full
