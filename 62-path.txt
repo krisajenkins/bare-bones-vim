@@ -1,0 +1,5 @@
+Path examples
+----
+
+set path=** 
+set path=**,/Users/kris/Library/**/doc/**

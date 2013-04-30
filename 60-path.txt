@@ -1,0 +1,10 @@
+Path examples
+----
+
+Comma separated list of paths.
+Relative to current directory.
+
+
+** - Search downwards
+
+/usr/include/**/docs

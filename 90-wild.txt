@@ -1,0 +1,4 @@
+Improving wildmode
+----
+
+set wildmenu

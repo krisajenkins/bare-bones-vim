@@ -1,0 +1,46 @@
+* Bare Bones
+- [ ] Check Drew's book.
+- [ ] i[ ???
+
+** :find
+:find
+:help file-searching
+
+:sfind & :tabfind
+
+gf & Ctrl-O
+
+** path
+More path complexity
+
+searching upwards to .git
+
+Wildmode is slightly different
+
+set path=**;.git
+
+** :Explore
+
+** buffers
+set hidden
+:ls
+:2b
+Subtle nod to bufexplorer
+
+** Remote editing.
+:e scp://host/filename
+
+** Wrap up
+Notes on the vim-london github.
+:help file-searching, :help wildmenu
+bufexplorer
+
+** More
+
+cd pwd & cd -
+rooted in one directory
+
+"You can't always get what you want,
+but if you try sometimes,
+you might :find,
+you get what you need."
